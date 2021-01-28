@@ -57,7 +57,3 @@ UCLA Extension, Angelo Rocky Dibello
 * [Portfolio](https://dibello80.github.io/AngeloRockyDibello-Portfolio/)
 * [GitHub](https://github.com/Dibello80)
 * [LinkedIn](https://www.linkedin.com/in/angelodibello)
-
-## Credits
-
-© 2021 Angelo Rocky Dibello - Web Developer
